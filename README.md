@@ -1,7 +1,7 @@
 # Student Record Management System  
 
 ## 📌 Website URL  
-🔗 [Student Record Management](https://student-record-data-tarumt.s3.us-east-1.amazonaws.com/index.html)  
+[Student Record Management](https://student-record-data-tarumt.s3.us-east-1.amazonaws.com/index.html)  
 
 ## 🛠 Project Overview  
 This project is a **Student Record Management System** that allows users to perform CRUD operations (Create, Read, Update, Delete) on student records. It is built using AWS services to ensure scalability and reliability.  
